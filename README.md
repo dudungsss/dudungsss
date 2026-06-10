@@ -68,5 +68,5 @@ Project Laravel berbasis Docker untuk latihan pengembangan aplikasi web modern.
 ---
 
 <p align="center">
-  Belajar pelan-pelan, yang penting konsisten 🚀
+  It's a new day, everyday 🚀
 </p>
