@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dudung</h1>
+<h1 align="center">Hi 👋, I'm Yuliadhy Nugraha</h1>
 <h3 align="center">Laravel Developer | Filament V3 | Livewire | Backend Enthusiast</h3>
 
 <p align="center">
