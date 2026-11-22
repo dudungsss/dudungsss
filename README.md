@@ -1,18 +1,10 @@
-<h1 align="center">Hi 👋, I'm Yuliadhy Nugraha</h1>
-<h3 align="center">Laravel Developer | Filament V3 | Livewire | Backend Enthusiast</h3>
+<h1 align="center">Hallo, I'm Yuliadhy Nugraha</h1>
+<h3 align="center">Mahasiswa Teknik Informatika Semester 5 di Universitas Esa Unggul</h3>
 
 <p align="center">
   <a href="mailto:ynugrahauga29@gmail.com">Email</a> •
   <a href="https://github.com/dudungsss">GitHub</a>
 </p>
-
----
-
-### 👨‍💻 About Me
-
-Saya adalah developer yang sedang fokus belajar dan membangun project menggunakan Laravel, Filament, Livewire, Blade, Docker, dan MariaDB.
-
-Saat ini saya banyak mengerjakan project web berbasis admin panel, sistem CRUD, relasi database, dan aplikasi manajemen data.
 
 ---
 
@@ -26,25 +18,6 @@ Saat ini saya banyak mengerjakan project web berbasis admin panel, sistem CRUD, 
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
-
----
-
-### 🚀 Featured Projects
-
-#### 📌 Portfolio Website
-Personal portfolio berbasis Laravel, Livewire, dan Filament Admin Panel.
-
-**Tech:** Laravel, Filament V3, Livewire, Blade, MariaDB
-
-#### 📌 Buloh Cakes
-Website menu digital untuk toko kue dengan fitur kategori menu, keranjang, dan checkout sederhana.
-
-**Tech:** HTML, CSS, JavaScript
-
-#### 📌 Simanis
-Project Laravel berbasis Docker untuk latihan pengembangan aplikasi web modern.
-
-**Tech:** Laravel, Docker, MariaDB
 
 ---
 
@@ -68,5 +41,5 @@ Project Laravel berbasis Docker untuk latihan pengembangan aplikasi web modern.
 ---
 
 <p align="center">
-  It's a new day, everyday 🚀
+  kid who can do anything, he said.
 </p>
